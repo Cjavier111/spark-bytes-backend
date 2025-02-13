@@ -36,7 +36,7 @@ python manage.py runserver
 ```
 The API should now be running at http://127.0.0.1:8000/
 
-##🚀 Deployment on Heroku
+## 🚀 Deployment on Heroku
 
 ### 1️⃣ Login to Heroku
 ```
@@ -84,7 +84,7 @@ heroku open
 | POST      | `/api/auth/signup/`     | User registration      |
 
 
-##📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
 
